@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	 * System.out.println(texta+" "+textb);
 	 */
 	
-	System.out.println("Result: " + dval+",,,,,,"+val);
+	System.out.println("Result: " + dval+","+val);
 	System.out.println("Result: " + val);
 }
 }
